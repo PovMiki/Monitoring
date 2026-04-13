@@ -1,0 +1,16 @@
+# virtual enviroment
+.venv/
+venv/
+env/
+.idea/
+
+# pamiec podreczna
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logi
+*.log
+.git/
+.gitignore
